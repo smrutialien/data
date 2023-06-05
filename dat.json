@@ -1,0 +1,54 @@
+{
+    "data": [
+    {
+      "flight": "Emirates",
+      "source": "Bhubaneswar",
+      "destination": "Chennai",
+      "boarding": "10:30",
+      "departure": "11:15",
+      "seatsAvailable": 28,
+      "price": "1700.00",
+      "id": 1
+    },
+    {
+      "flight": "AirBNB",
+      "source": "Bhubaneswar",
+      "destination": "Delhi",
+      "boarding": "11:45",
+      "departure": "12:50",
+      "seatsAvailable": 0,
+      "price": "1200.00",
+      "id": 2
+    },
+    {
+      "flight": "Indigo",
+      "source": "Mumbai",
+      "destination": "Goa",
+      "boarding": "2.00",
+      "departure": "3:50",
+      "seatsAvailable": 15,
+      "price": "2000.00",
+      "id": 3
+    },
+    {
+      "flight": "Airasia",
+      "source": "Kolkata",
+      "destination": "Gujrat",
+      "boarding": "1.00",
+      "departure": "2:50",
+      "seatsAvailable": 7,
+      "price": "2600.00",
+      "id": 4
+    },
+    {
+      "flight": "Kingfisher",
+      "source": "Odisha",
+      "destination": "Banglore",
+      "boarding": "5.00",
+      "departure": "6",
+      "seatsAvailable": 35,
+      "price": "5000.00",
+      "id": 5
+    }
+  ]
+}
